@@ -30,26 +30,14 @@
 ### 2. 프로젝트 기능
 
 프로젝트의 주요 기능은 다음과 같습니다.
-- **게시판 -** CRUD 기능
-- **사용자 -** Security 회원가입 및 로그인
-- **댓글 -** CRUD 기능
+- **홈페이지 -** 데이터바인딩, 컴포넌트
+- **모달창 -** 이벤트핸들러  
+- **정렬 -** sort함수 
 
 ### 3. 사용 기술
 
-#### 3-1 백엔드
-
 ##### 주요 프레임워크 / 라이브러리
-- Java 
-- SpringBoot
-- JPA(Spring Data JPA)
-- Spring Security
-
-##### Build Tool
-- Gradle
-
-##### DataBase
-- H2
-
-#### 3-2 프론트엔드
-- Html/Css
-- Bootstrap 4.3.1
+- VUE3
+- HTML
+- CSS
+- JAVASCRIPT
