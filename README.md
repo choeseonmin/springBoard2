@@ -13,8 +13,6 @@
 # :paperclip: Basic board Project
 > 전반적인 웹의 기본 소양이 되는 게시판 프로젝트입니다.
 
-![메인 화면](https://user-images.githubusercontent.com/59757689/149616313-dbeace05-67dc-4d70-b6a1-630d601b6455.PNG)
-
 ## 목차
 - [들어가며](#들어가며)
   - [프로젝트 소개](#1-프로젝트-소개)    
