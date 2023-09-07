@@ -11,7 +11,7 @@
 <img width="1918" alt="스크린샷 2023-09-05 144642" src="https://github.com/choeseonmin/springBoard2/assets/129834569/d7b986ee-a458-4279-8dd3-e40ef825f6dc">
 
 # :paperclip: Basic board Project
-> 전반적인 웹의 기본 소양이 되는 게시판 프로젝트입니다.
+> 전반적인 웹의 기본 소양이 되는 게시판 프로젝트입니다.<br>
 > CRUD를 이용하여 게시글을 생성하고, 읽고, 수정하고, 삭제하는 것이 가능한 최소한의 기능만 있는 게시판입니다.
 
 ## 목차
